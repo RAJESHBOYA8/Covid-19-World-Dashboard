@@ -1,7 +1,7 @@
 
 # COVID-19 World Dashboard using Tableau
 
-###FINAL DASHBOARD LINK :
+### FINAL DASHBOARD LINK :
 [https://public.tableau.com/app/profile/boya.rajesh/viz/COVID-19WORLDDASHBOARD_17246103665480/Dashboard1?publish=yes]
 
 ## Overview

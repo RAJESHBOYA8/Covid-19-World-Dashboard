@@ -51,7 +51,7 @@ The data is regularly updated to reflect the latest information on COVID-19 case
 
 1. Clone this Repository:
    bash
-   git clone https://github.com/yourusername/COVID-19-World-Dashboard.git
+   git clone https://github.com/RAJESHBOYA8/Covid-19-World-Dashboard.git
    
 2. Open in Tableau Desktop:
    - Open the COVID-19_Dashboard.twbx file in Tableau Desktop to explore the dashboard interactively.

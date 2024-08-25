@@ -1,4 +1,8 @@
+
 # COVID-19 World Dashboard using Tableau
+
+###FINAL DASHBOARD LINK :
+[https://public.tableau.com/app/profile/boya.rajesh/viz/COVID-19WORLDDASHBOARD_17246103665480/Dashboard1?publish=yes]
 
 ## Overview
 
@@ -7,7 +11,7 @@ This project showcases a comprehensive Tableau dashboard that visualizes the glo
 ## Features
 
 ### 1. Symbol Map
-   - Description:A symbol map that visually represents the distribution of confirmed COVID-19 cases across the world. The size and color of the symbols indicate the severity of cases in each region.
+   - Description:A symbo map that visually represents the distribution of confirmed COVID-19 cases across the world. The size and color of the symbols indicate the severity of cases in each region.
    - Purpose: To provide a global overview of the pandemic's spread, helping users quickly identify the most affected regions.
 
 ### 2. Stacked Area Chart
